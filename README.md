@@ -54,22 +54,28 @@ Features include deposit & withdrawal systems, loan calculator, balance display,
 
 
 ## 📺 Sample Output
----
------------- Puduk Bank ------------
+
+```bash
+------------- Puduk Bank -------------
 1 for sign in the bank account:
 2 for quit:
+> 1
+
+Signing the account:
+This can take a while...
 
 ----------- Bank System -----------
 What is your name:
 > Mert
 What is your surname:
-> Demirkasaoglu
+> Demir
 What is your age:
 > 21
-Age Checking... 
+Age Checking...
 Age Approved...
 
------------ Puduk Bank -----------
+------------- Signing -------------
+------------- PUDUK ---------------
 1 for Deposit
 2 for Withdrawal
 3 for Current Balance
@@ -78,25 +84,27 @@ Age Approved...
 6 Bank Card
 7 for Quit
 
---------- Withdrawal Example ---------
+---------- Withdrawal Example ----------
 1 for Withdrawal
 2 for Previous Page
 > 1
+
 How much money you want to withdraw:
 > 300
-Your 300 Prepared. You can take your money.
+Your $300 Prepared. You can take your money.
 Current balance is 800
 
---------- Withdrawal Invalid ---------
+> ------- Withdrawal Invalid -------
 How much money you want to withdraw:
 > 2000
 You don’t have enough balance: 800
 Please try again.
 
------------- Deposit Example ----------
+---------- Deposit Example ----------
 1 for Deposit
 2 for Previous Page
 > 1
+
 How much money you want to deposit:
 > 500
 Please prepare your money...
@@ -104,37 +112,36 @@ Please put the money carefully...
 Current balance is 1300
 Have a nice day!
 
------------ Helper Page ------------
+---------- Helper Page ----------
 1 for I Can't Deposit
 2 for Contact Information
 > 1
 
------------ Deposit Help -----------
-- Card might be inserted wrong.
-- Card limit may be reached.
-- Deposit limit exceeded for ATM.
-
+---------- Deposit Help ----------
+• Card might be inserted wrong.
+• Card limit may be reached.
+• Deposit limit exceeded for ATM.
 Returning to main menu...
 
------------ Contact Informations -----------
-Phone Number:        0212 212 22 22
-Mail address:        bank@gmail.com
-Fax:                 22 22 22 22
-
--------- Loan Page --------
+------------ Loan Page ------------
 1 for House Loan
 2 for Car Loan
 3 for Personal Loan
 4 for Previous Page
 > 2
 
-What is your income?
+What is your income:
 > 60000
-Years of experience?
-> 4
+How many years of experience you have:
+> 3
 
-Our Loan Offer For You: 160000
----
+Our Loan Offer For You: 120000
+Returning to main menu...
+```
+
+
+
+
 
 
 
