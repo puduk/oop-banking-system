@@ -55,7 +55,7 @@ Features include deposit & withdrawal systems, loan calculator, balance display,
 
 ## 📺 Sample Output
 
-```bash
+```
 ------------- Puduk Bank -------------
 1 for sign in the bank account:
 2 for quit:
