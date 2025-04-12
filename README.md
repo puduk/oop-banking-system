@@ -40,17 +40,17 @@ Features include deposit & withdrawal systems, loan calculator, balance display,
 ---
 ## 📁 File Structure
 
-/Utils
-├── balance_shower.cpp / .hpp
-├── deposit.cpp / .hpp
-├── display_card.cpp / .hpp
-├── first_page.cpp / .hpp
-├── helper.cpp / .hpp
-├── loan.cpp / .hpp
-├── sign_in.cpp / .hpp
-├── signed_in.cpp / .hpp
-├── user.cpp / .hpp
-├── withdrawal.cpp / .hpp
+- /Utils
+- ├── balance_shower.cpp / .hpp
+- ├── deposit.cpp / .hpp
+- ├── display_card.cpp / .hpp
+- ├── first_page.cpp / .hpp
+- ├── helper.cpp / .hpp
+- ├── loan.cpp / .hpp
+- ├── sign_in.cpp / .hpp
+- ├── signed_in.cpp / .hpp
+- ├── user.cpp / .hpp
+- ├── withdrawal.cpp / .hpp
 
 
 ## 📺 Sample Output
